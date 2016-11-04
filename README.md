@@ -1,5 +1,4 @@
 #@ LogDQX
-DQX chat log plugin for BouyomiChan
 DQX のチャットログを棒読みちゃんに読み上げさせるプラグインです。
 
 ### インストール
