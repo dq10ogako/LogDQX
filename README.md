@@ -3,4 +3,4 @@ DQX のチャットを棒読みちゃんに読み上げさせるプラグイン�
 
 ### インストール
 
-Plugin_LogDQX.dll と Plugin_LogDQX.setting と LogDQX.dll を BouyomiChan.exe と同じディレクトリにコピーしてください。
+Plugin_LogDQX.dll を BouyomiChan.exe と同じディレクトリにコピーしてください。
